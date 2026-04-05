@@ -78,6 +78,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Gopika1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/Gopika1705/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopika1705/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -91,6 +92,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopika1705/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,5 +123,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
