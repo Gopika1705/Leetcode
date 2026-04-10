@@ -89,6 +89,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Gopika1705/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopika1705/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -146,4 +147,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Gopika1705/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
