@@ -89,6 +89,7 @@
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopika1705/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0078-subsets](https://github.com/Gopika1705/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -142,6 +143,7 @@
 | [0039-combination-sum](https://github.com/Gopika1705/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopika1705/Leetcode/tree/main/0051-n-queens/) | Hard |
+| [0078-subsets](https://github.com/Gopika1705/Leetcode/tree/main/0078-subsets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,4 +188,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/Gopika1705/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
