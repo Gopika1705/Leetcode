@@ -36,6 +36,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Gopika1705/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Gopika1705/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/Gopika1705/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopika1705/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1472-design-browser-history](https://github.com/Gopika1705/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopika1705/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Doubly-Linked List
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopika1705/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -145,6 +148,7 @@
 | [0088-merge-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
