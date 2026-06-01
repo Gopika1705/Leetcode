@@ -158,6 +158,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -222,4 +223,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Gopika1705/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
