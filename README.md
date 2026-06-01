@@ -156,6 +156,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0091-decode-ways](https://github.com/Gopika1705/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -163,6 +164,7 @@
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0091-decode-ways](https://github.com/Gopika1705/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Gopika1705/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
