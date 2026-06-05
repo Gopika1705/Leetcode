@@ -8,7 +8,7 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution{
     public ListNode mergeKLists(ListNode[] lists){
         ListNode result=null;
         for(int i=0;i<lists.length;i++){
@@ -16,19 +16,19 @@ class Solution {
         }
         return result;
     }
-    public ListNode merge(ListNode list1,ListNode list2) {
+    public ListNode merge(ListNode list1,ListNode list2){
         ListNode dummy=new ListNode(0);
         ListNode temp=dummy;
         ListNode c1=list1;
         ListNode c2=list2;
         while(c1!=null && c2!=null){
-            if(c1.val<=c2.val){
-                temp.next=c1;
-                c1=c1.next;
-            }
-            else{
+            if(c1.val>c2.val){
                 temp.next=c2;
                 c2=c2.next;
+            }
+            else{
+                temp.next=c1;
+                c1=c1.next;
             }
             temp=temp.next;
         }
