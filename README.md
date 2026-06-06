@@ -4,6 +4,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0143-reorder-list](https://github.com/Gopika1705/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Gopika1705/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Gopika1705/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -25,6 +26,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0901-online-stock-span](https://github.com/Gopika1705/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Data Stream
@@ -73,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopika1705/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Gopika1705/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -94,6 +97,7 @@
 | [0001-two-sum](https://github.com/Gopika1705/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Gopika1705/Leetcode/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Gopika1705/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -176,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
