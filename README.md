@@ -99,6 +99,7 @@
 | [0039-combination-sum](https://github.com/Gopika1705/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0048-rotate-image](https://github.com/Gopika1705/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/Gopika1705/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -258,12 +259,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Gopika1705/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/Gopika1705/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Gopika1705/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 ## Combinatorics
