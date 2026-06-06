@@ -11,8 +11,8 @@ class Solution {
         }
         int water=0;
         for(int i=1;i<height.length-1;i++){
-            int minHeight=Math.min(leftmax,s.peek());
-            water=water+Math.max(0,minHeight-height[i]);
+            int minheight=Math.min(leftmax,s.peek());
+            water=water+Math.max(0,minheight-height[i]);
             s.pop();
             leftmax=Math.max(leftmax,height[i]);
         }
