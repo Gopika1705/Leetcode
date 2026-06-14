@@ -311,6 +311,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/Gopika1705/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/Gopika1705/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Gopika1705/Leetcode/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/Gopika1705/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopika1705/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Gopika1705/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Gopika1705/Leetcode/tree/main/1148-article-views-i/) | Easy |
