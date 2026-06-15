@@ -321,6 +321,7 @@
 | [1084-sales-analysis-iii](https://github.com/Gopika1705/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Gopika1705/Leetcode/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Gopika1705/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1179-reformat-department-table](https://github.com/Gopika1705/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1251-average-selling-price](https://github.com/Gopika1705/Leetcode/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/Gopika1705/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopika1705/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
