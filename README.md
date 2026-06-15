@@ -314,6 +314,7 @@
 | [0619-biggest-single-number](https://github.com/Gopika1705/Leetcode/tree/main/0619-biggest-single-number/) | Easy |
 | [0626-exchange-seats](https://github.com/Gopika1705/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [1045-customers-who-bought-all-products](https://github.com/Gopika1705/Leetcode/tree/main/1045-customers-who-bought-all-products/) | Medium |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Gopika1705/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/Gopika1705/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/Gopika1705/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1251-average-selling-price](https://github.com/Gopika1705/Leetcode/tree/main/1251-average-selling-price/) | Easy |
