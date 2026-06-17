@@ -89,6 +89,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopika1705/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -123,6 +124,7 @@
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Gopika1705/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopika1705/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopika1705/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -250,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Gopika1705/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,6 +295,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
