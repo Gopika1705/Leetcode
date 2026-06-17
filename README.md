@@ -112,6 +112,7 @@
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/Gopika1705/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopika1705/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -274,6 +275,7 @@
 | [0048-rotate-image](https://github.com/Gopika1705/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Gopika1705/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
@@ -289,6 +291,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Sliding Window
