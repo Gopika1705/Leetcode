@@ -362,6 +362,7 @@
 | [1280-students-and-examinations](https://github.com/Gopika1705/Leetcode/tree/main/1280-students-and-examinations/) | Easy |
 | [1321-restaurant-growth](https://github.com/Gopika1705/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopika1705/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/Gopika1705/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gopika1705/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Gopika1705/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/Gopika1705/Leetcode/tree/main/1729-find-followers-count/) | Easy |
