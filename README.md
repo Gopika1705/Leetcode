@@ -142,6 +142,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gopika1705/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1470-shuffle-the-array](https://github.com/Gopika1705/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopika1705/Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Gopika1705/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Gopika1705/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
