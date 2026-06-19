@@ -365,6 +365,7 @@
 | [1321-restaurant-growth](https://github.com/Gopika1705/Leetcode/tree/main/1321-restaurant-growth/) | Medium |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Gopika1705/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/Gopika1705/Leetcode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
+| [1517-find-users-with-valid-e-mails](https://github.com/Gopika1705/Leetcode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Gopika1705/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/Gopika1705/Leetcode/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/Gopika1705/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
