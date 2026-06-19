@@ -89,6 +89,7 @@
 | [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Gopika1705/Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Gopika1705/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Gopika1705/Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Gopika1705/Leetcode/tree/main/0143-reorder-list/) | Medium |
@@ -201,6 +202,7 @@
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Gopika1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/Gopika1705/Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0125-valid-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
