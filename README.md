@@ -56,6 +56,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Gopika1705/Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -137,6 +138,7 @@
 | [0200-number-of-islands](https://github.com/Gopika1705/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Gopika1705/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -341,6 +343,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopika1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Gopika1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopika1705/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
