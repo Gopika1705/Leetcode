@@ -159,6 +159,7 @@
 | [1672-richest-customer-wealth](https://github.com/Gopika1705/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopika1705/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gopika1705/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -284,6 +286,7 @@
 | [0011-container-with-most-water](https://github.com/Gopika1705/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,4 +414,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
