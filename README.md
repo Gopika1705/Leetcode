@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Linked List
@@ -219,6 +220,7 @@
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopika1705/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Gopika1705/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -255,6 +257,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
