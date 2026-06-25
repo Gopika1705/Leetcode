@@ -61,6 +61,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Gopika1705/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -174,6 +176,7 @@
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -184,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Gopika1705/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +262,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,6 +272,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Gopika1705/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Gopika1705/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -418,4 +424,8 @@
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
