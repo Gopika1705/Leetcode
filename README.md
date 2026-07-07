@@ -60,6 +60,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0409-longest-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -151,6 +152,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Gopika1705/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopika1705/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
+| [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -277,6 +279,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gopika1705/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Gopika1705/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
