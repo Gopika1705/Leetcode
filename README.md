@@ -68,6 +68,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -249,6 +250,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopika1705/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gopika1705/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Gopika1705/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -280,11 +282,13 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -322,6 +326,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
