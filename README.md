@@ -248,6 +248,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopika1705/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Gopika1705/Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Gopika1705/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -320,6 +321,7 @@
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +365,7 @@
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Gopika1705/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
