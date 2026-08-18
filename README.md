@@ -65,6 +65,7 @@
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0409-longest-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -112,6 +113,7 @@
 | [0234-palindrome-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -241,6 +243,7 @@
 | [0290-word-pattern](https://github.com/Gopika1705/Leetcode/tree/main/0290-word-pattern/) | Easy |
 | [0409-longest-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+| [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0686-repeated-string-match](https://github.com/Gopika1705/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
@@ -391,6 +394,7 @@
 | [0076-minimum-window-substring](https://github.com/Gopika1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0219-contains-duplicate-ii](https://github.com/Gopika1705/Leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/Gopika1705/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopika1705/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
