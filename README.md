@@ -374,6 +374,7 @@
 | [0069-sqrtx](https://github.com/Gopika1705/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gopika1705/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
