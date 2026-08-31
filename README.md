@@ -67,6 +67,7 @@
 | [0409-longest-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -166,6 +167,7 @@
 | [0518-coin-change-ii](https://github.com/Gopika1705/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Gopika1705/Leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
@@ -205,6 +207,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopika1705/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gopika1705/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -251,6 +254,7 @@
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0686-repeated-string-match](https://github.com/Gopika1705/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -287,6 +291,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -296,6 +301,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gopika1705/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Gopika1705/Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -487,4 +493,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
