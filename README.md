@@ -145,6 +145,7 @@
 | [0018-4sum](https://github.com/Gopika1705/Leetcode/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/Gopika1705/Leetcode/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Gopika1705/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
@@ -428,6 +429,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gopika1705/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Gopika1705/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
