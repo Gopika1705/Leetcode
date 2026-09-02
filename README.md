@@ -262,6 +262,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gopika1705/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Gopika1705/Leetcode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/Gopika1705/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0044-wildcard-matching](https://github.com/Gopika1705/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Gopika1705/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Gopika1705/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
