@@ -170,6 +170,7 @@
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0312-burst-balloons](https://github.com/Gopika1705/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Gopika1705/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopika1705/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -293,6 +294,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Gopika1705/Leetcode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/Gopika1705/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0312-burst-balloons](https://github.com/Gopika1705/Leetcode/tree/main/0312-burst-balloons/) | Hard |
 | [0322-coin-change](https://github.com/Gopika1705/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Gopika1705/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
