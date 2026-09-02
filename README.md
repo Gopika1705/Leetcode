@@ -148,6 +148,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Gopika1705/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/Gopika1705/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/Gopika1705/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Gopika1705/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Gopika1705/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Gopika1705/Leetcode/tree/main/0049-group-anagrams/) | Medium |
@@ -292,6 +293,7 @@
 | [0022-generate-parentheses](https://github.com/Gopika1705/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Gopika1705/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/Gopika1705/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Gopika1705/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Gopika1705/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
@@ -370,6 +372,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Gopika1705/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0044-wildcard-matching](https://github.com/Gopika1705/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/Gopika1705/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0409-longest-palindrome](https://github.com/Gopika1705/Leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0649-dota2-senate](https://github.com/Gopika1705/Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
