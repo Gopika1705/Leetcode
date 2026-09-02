@@ -189,6 +189,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Gopika1705/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gopika1705/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+| [0867-transpose-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gopika1705/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -249,6 +250,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Gopika1705/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Gopika1705/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Gopika1705/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -417,6 +419,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Gopika1705/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0867-transpose-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Gopika1705/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Gopika1705/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
