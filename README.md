@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Gopika1705/Leetcode/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Gopika1705/Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0707-design-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0901-online-stock-span](https://github.com/Gopika1705/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Gopika1705/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
@@ -34,6 +35,7 @@
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0901-online-stock-span](https://github.com/Gopika1705/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Gopika1705/Leetcode/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1472-design-browser-history](https://github.com/Gopika1705/Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -116,6 +118,7 @@
 | [0234-palindrome-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/Gopika1705/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Gopika1705/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -208,6 +211,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Gopika1705/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Gopika1705/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1046-last-stone-weight](https://github.com/Gopika1705/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -294,6 +298,7 @@
 | [0169-majority-element](https://github.com/Gopika1705/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Gopika1705/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Gopika1705/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
