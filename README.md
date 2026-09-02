@@ -125,6 +125,7 @@
 | [0567-permutation-in-string](https://github.com/Gopika1705/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Gopika1705/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +191,7 @@
 | [0724-find-pivot-index](https://github.com/Gopika1705/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Gopika1705/Leetcode/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0867-transpose-matrix](https://github.com/Gopika1705/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Gopika1705/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/Gopika1705/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
@@ -330,6 +332,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Gopika1705/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Gopika1705/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Gopika1705/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Gopika1705/Leetcode/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gopika1705/Leetcode/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Gopika1705/Leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
