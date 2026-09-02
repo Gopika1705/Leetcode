@@ -126,6 +126,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Gopika1705/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/Gopika1705/Leetcode/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0917-reverse-only-letters](https://github.com/Gopika1705/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -286,6 +287,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Gopika1705/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0686-repeated-string-match](https://github.com/Gopika1705/Leetcode/tree/main/0686-repeated-string-match/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0917-reverse-only-letters](https://github.com/Gopika1705/Leetcode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Gopika1705/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Gopika1705/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Gopika1705/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
