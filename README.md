@@ -440,6 +440,7 @@
 | [0050-powx-n](https://github.com/Gopika1705/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Gopika1705/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Gopika1705/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -478,6 +479,7 @@
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 ## Database
 | Problem Name | Difficulty |
@@ -571,4 +573,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Gopika1705/Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Impartial Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
 <!---LeetCode Topics End-->
