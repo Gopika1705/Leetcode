@@ -312,6 +312,7 @@
 | [0055-jump-game](https://github.com/Gopika1705/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Gopika1705/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/Gopika1705/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0091-decode-ways](https://github.com/Gopika1705/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0115-distinct-subsequences](https://github.com/Gopika1705/Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0118-pascals-triangle](https://github.com/Gopika1705/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -440,6 +441,7 @@
 | [0050-powx-n](https://github.com/Gopika1705/Leetcode/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Gopika1705/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Gopika1705/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Gopika1705/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
 | [0319-bulb-switcher](https://github.com/Gopika1705/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gopika1705/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -589,4 +591,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0292-nim-game](https://github.com/Gopika1705/Leetcode/tree/main/0292-nim-game/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Gopika1705/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
