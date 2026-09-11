@@ -1,37 +1,38 @@
 class Solution {
     public String minWindow(String s, String t) {
+      int m=s.length();
+      int n=t.length();
       int freq[]=new int[256];
+      int left=0;
+      int o=0;
+      int min=Integer.MAX_VALUE;
       for(int i=0;i<t.length();i++){
         freq[t.charAt(i)]++;
       }
-      int ws=0;
-      int minlen=Integer.MAX_VALUE;
-      int start=0;
-      int required=t.length();
-      for(int we=0;we<s.length();we++){
-        char c=s.charAt(we);
+      int r=0;
+      for(int i=0;i<s.length();i++){
+        char c=s.charAt(i);
         if(freq[c]>0){
-            required--;
+            r++;
         }
         freq[c]--;
-        while(required==0){
-            int wlen=we-ws+1;
-            if(wlen<minlen){
-                minlen=wlen;
-                start=ws;
+        while(r==n){
+            int count=i-left+1;
+            if(count<min){
+                min=count;
+                o=left;
             }
-            char l=s.charAt(ws);
+            char l=s.charAt(left);
             freq[l]++;
             if(freq[l]>0){
-                required++;
-
+                r--;
             }
-            ws++;
+            left++;
         }
       }
-      if(minlen==Integer.MAX_VALUE){
-            return "";
+      if(min==Integer.MAX_VALUE){
+        return "";
       }
-      return s.substring(start,start+minlen);
+      return s.substring(o,o+min);
     }
 }
