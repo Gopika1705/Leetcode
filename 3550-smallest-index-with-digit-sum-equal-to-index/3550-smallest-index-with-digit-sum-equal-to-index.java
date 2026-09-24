@@ -5,7 +5,7 @@ class Solution {
             int sum=0;
             while(a>0){
                 int r=a%10;
-                sum+=r;
+                sum=sum+r;
                 a=a/10;
             }
             if(sum==i){
